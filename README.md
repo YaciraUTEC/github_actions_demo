@@ -15,3 +15,5 @@ Este proyecto permite practicar la configuración de workflows de integración c
 ## Autor
 
 Yacira Campoverde
+## GitHub Actions
+Workflow configurado para ejecutar CI y CD de forma secuencial.
